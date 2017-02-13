@@ -8,9 +8,8 @@
 请勿随意使用以下目录里的原创内容：
 *   _posts/
 *   images/
-======= 
-I own the copyright to the following directories and their contents.  You may not reuse anything therein without my permission:
 
+I own the copyright to the following directories and their contents.  You may not reuse anything therein without my permission:
 *   _posts/
 *   images/
 
